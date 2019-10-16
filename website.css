@@ -1,0 +1,13 @@
+body{
+	margin: 0 auto;
+}
+
+
+.header{
+	background-color: Grey;
+	height: 50px;
+	width: 100%;
+    margin: 0px;
+    float: right;
+    display: block;
+}
