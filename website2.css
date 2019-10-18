@@ -2,6 +2,7 @@ body{
 	margin: 0 auto;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
+	background-color: black;
 }
 
 .grid-container{
@@ -52,21 +53,21 @@ body{
 #hoi{
 	grid-column: 3/4;
 	grid-row: 6/7;
-	color: #30336b;
+	color: white;
 	font-size: 14px;
 	width: 400px;
 }
 #tekst{
 	grid-column: 4/5;
 	grid-row: 6/7;
-	color: #30336b;
+	color: white;
 	font-size: 14px;
 	width: 400px;
 }
 #tekst2{
 	grid-column: 5/6;
 	grid-row: 6/7;
-	color: #30336b;
+	color: white;
 	font-size: 14px;
 	width: 400px;
 }
