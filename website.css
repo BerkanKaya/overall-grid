@@ -55,6 +55,7 @@ body{
 	color: #30336b;
 	font-size: 14px;
 	width: 400px;
+	text-decoration: none;
 }
 #tekst{
 	grid-column: 4/5;
@@ -62,6 +63,7 @@ body{
 	color: #30336b;
 	font-size: 14px;
 	width: 400px;
+	text-decoration: none;
 }
 #tekst2{
 	grid-column: 5/6;
@@ -69,12 +71,14 @@ body{
 	color: #30336b;
 	font-size: 14px;
 	width: 400px;
+	text-decoration: none;
 }
 #tekst3{
 	grid-column: 5/6;
 	grid-row: 4/5;
 	color: white;
 	width: 400px;
+	text-decoration: none;
 }
 li{
 	display: inline-block;
@@ -87,8 +91,6 @@ li{
 #contact{
 	grid-column:6/7;
 	grid-row:3/4;
-
-
 }
 ul{
 	padding:0;
@@ -100,6 +102,7 @@ ul{
 	grid-column: 4/5;
 	grid-row: 4/5;
 	color: white;
+	text-decoration: none;
 }
 #banner3{
 	grid-column: 5/6;
@@ -110,4 +113,15 @@ ul{
 	grid-column: 4/5;
 	grid-row: 8/9;
 	color: white;
+	text-decoration: none;
+}
+a{
+	color: black;
+}
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+a:active{
+	color: red;
 }
